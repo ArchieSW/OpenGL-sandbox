@@ -1,0 +1,5 @@
+*.o
+main
+*.so
+*.so.3
+./Dependencies/src/GLFW/build
